@@ -26,8 +26,8 @@
 ###### <p align="center"> By [**1ucif3r**](https://1ucif3r.me/)
 ###### <p align="center"> *You can check our [WebSite](https://dark4rmy.in/)✌*
 
-###### <p align="center">One of the best Python obfuscator. It will protect your
-code and make it extremely difficult to get deobfuscated. <p align="center">
+###### <p align="center">One of the best Python obfuscator. It will protect your code and make it extremely difficult to get deobfuscated. <p align="center">
+
 
  
 
