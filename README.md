@@ -23,7 +23,7 @@
   <a href="https://github.com/1ucif3r"><img title="Watching" src="https://img.shields.io/github/watchers/1ucif3r/Obfuscator?label=Watchers&color=blue&style=flat-square"></a>
  
 
-###### <p align="center"> By [**1ucif3r**](https://1ucif3r.in/)
+###### <p align="center"> By [**1ucif3r**](https://1ucif3r.me/)
 ###### <p align="center"> *You can check our [WebSite](https://dark4rmy.in/)✌*
 
 ###### <p align="center">One of the best Python obfuscator.<p align="center">
