@@ -1,5 +1,4 @@
-# Obfuscator
-One of the best Python obfuscator.
+
 <p align=center>
   <img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg"></p>
   
@@ -23,7 +22,7 @@ One of the best Python obfuscator.
   <a href="https://github.com/1ucif3r/network/members"><img title="Forks" src="https://img.shields.io/github/forks/1ucif3r/Obfuscator?color=red&style=flat-square"></a>
   <a href="https://github.com/1ucif3r"><img title="Watching" src="https://img.shields.io/github/watchers/1ucif3r/Obfuscator?label=Watchers&color=blue&style=flat-square"></a>
  
-###### <p align="center">*This is official repository maintained by Us.*
+
 ###### <p align="center"> By [**1ucif3r**](https://1ucif3r.in/)
 ###### <p align="center"> *You can check our [WebSite](https://dark4rmy.in/)✌*
 
