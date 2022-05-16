@@ -48,7 +48,7 @@
 
 ### Development by
 
-Developer / Author: [1ucif3r](https://1ucif3r.me)
+Developer : [1ucif3r](https://1ucif3r.me)
 
 
 ### <h2 align="center">😈 Follow 😈 </h2>
