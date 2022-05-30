@@ -51,7 +51,7 @@ Youtube : https://youtu.be/wQ_atKIpud4
 
 ### Development by
 
-Banner Credit : [billythegoat356](https://github.com/billythegoat356)
+Banner Credit : [billythegoat356](https://github.com/billythegoat356)<br>
 Developer : [1ucif3r](https://1ucif3r.me)
 
 ### <h2 align="center">😈 Follow 😈 </h2>
