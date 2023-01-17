@@ -42,7 +42,7 @@
 
 `cd Obfuscator`
 
-`py obfuscato.py`
+`py obfuscator.py`
 
 # Demo 
 
