@@ -23,8 +23,8 @@
   <a href="https://github.com/1ucif3r"><img title="Watching" src="https://img.shields.io/github/watchers/1ucif3r/Obfuscator?label=Watchers&color=blue&style=flat-square"></a>
  
 
-###### <p align="center"> By [**1ucif3r**](https://1ucif3r.me/)
-###### <p align="center"> *You can check [DARK4RMY](https://dark4rmy.in/)✌*
+###### <p align="center"> By [**1ucif3r**](https://github.com/1ucif3r)
+###### <p align="center"> *You can check [DARK4RMY](https://github.com/1ucif3r)✌*
 
 ###### <p align="center">Simple Python obfuscator. It will protect your code. <p align="center">
 
@@ -52,11 +52,4 @@ Youtube : https://youtu.be/wQ_atKIpud4
 ### Development by
 
 Banner Credit : [billythegoat356](https://github.com/billythegoat356)<br>
-Developer : [1ucif3r](https://1ucif3r.me)
-
-### <h2 align="center">😈 Follow 😈 </h2>
-<p align="center">
-<a href="https://www.instagram.com/0x1ucif3r/"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.twitter.com/0x1ucif3r/"><img title="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://t.me/0x1ucif3r"><img title="Telegram" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram"></a>
-</p>
+Developer : [1ucif3r](https://github.com/1ucif3r)
