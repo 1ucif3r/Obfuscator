@@ -4,9 +4,7 @@
   
   <br>
   
-  <p align=center>
-  <a href="https://1ucif3r.me/"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
-  </p>
+
   
   <p align="center">
   <img src="https://github.com/1ucif3r/Obfuscator/blob/main/img/logo.png" alt=" Logo" />
